@@ -82,6 +82,15 @@ export class Home extends Component {
             Edit the page Header to display the total count of posts. (Anywhere
             in the header is fine)
           </li>
+          <li>
+            Cover project with tests, using jest & enzyme, or your favourite libraries
+          </li>
+        </ul>
+        <p>Bonus points <span role="img" aria-label="party popper">🎉</span>:</p>
+        <ul>
+          <li>
+            Convert project to TypeScript
+          </li>
         </ul>
         <p>
           Once finished, push to you repo on github, and sent us a link without creating a Pull request.
